@@ -1,0 +1,75 @@
+Date;Site;Durée;Commentaire
+08/05/16;Saint Hilaire;10;Déco nickel, attéro frein trop tôt
+08/05/16;Saint Hilaire;10;Déco avec recentrage, attéro nickel
+08/05/16;Saint Hilaire;10;Déco/attéro nickel, 1ers tangages
+21/05/16;Saint Hilaire;10;Encore tangages
+21/05/16;Saint Hilaire;10;Roulis sellette, trop cool!
+21/05/16;Saint Hilaire;10;Attéro quasi autonome, sortie sellette tardive
+21/08/16;Montlambert;10;Tangages, roulis sellette -> mauvais appuis
+21/08/16;Chamoux;15;Tangages, roulis -> meilleurs appuis, oreilles
+27/08/16;Saint Hilaire;10;Vol du soir avec forte brise Nord, retour en crabe
+27/08/16;Saint Hilaire;10;Accélérateur -> problème car pas fixé d'un côté
+28/08/16;Saint Hilaire;10;Pilotage 1 main, déco et attéro autonomes
+28/08/16;Saint Hilaire;10;Tangages autonome avec amortissement -> OK
+28/08/16;Saint Hilaire;10;3 virages 360° -> un peu trop de vitesse, sortie bras haut -> grosse ressource -> grosse tempo avant abattée
+28/08/16;Saint Hilaire;10;
+10/09/16;Saint Hilaire;10;Tangages 1ère intention, 1 déco foireux -> noeud dans les freins
+10/09/16;Saint Hilaire;10;Problème lecture manche à air -> PTS au lieu de PTU
+10/09/16;Saint Hilaire;10;Gros roulis sortie 1/4 tour chandelle et droit, thermiques parallèles falaise
+11/09/16;Saint Hilaire;10;Fermetures asymétriques -> problème contre sellette
+11/09/16;Saint Pierre d'Allevard;15;Découverte du site
+11/09/16;Saint Pierre d'Allevard;15;Initiation aux 1ers thermiques, sensation enrouler
+11/09/16;Collet d'Allevard;15;Découverte du site
+24/09/16;Planfait;8;3 vols avec Martin
+24/09/16;Planfait;8;
+24/09/16;Planfait;25;Allers-retours le long de la paroi vers 17h
+28/09/16;Saint Hilaire;8;1er vol solo vers 10h30
+28/09/16;Chamrousse;20;Déco magique avec Eric vers 19h, vent nul
+29/09/16;Chamrousse;20;Déco magique avec Eric, 17h30, pas mal de Nord -> roulis au déco
+07/10/16;Saint Hilaire;10;Déco sud, 16h30, attente 1h car vent de cul
+08/10/16;Saint Hilaire;15;Déco moquette avec Martin vers 11h15, allers-retours le long de la falaise
+08/10/16;Collet d'Allevard;15;13h30, joli thermique à la moitié du lac
+10/10/16;Saint Hilaire;15;Déco sud, 16h30, air hyper calme
+12/10/16;Saint Hilaire;15;Déco moquette, 16h15, pas mal de brise Nord en bas
+15/10/16;Planfait;8;Vol du matin tranquille
+15/10/16;Planfait;8;Vol du matin tranquille
+15/10/16;Planfait;45;Vol dynamique début aprem, attéro trop court par vent d'Annecy fort
+15/10/16;Planfait;45;Vol dynamique fin aprem
+16/10/16;Collet d'Allevard;20;4 vols d'après midi, très calme
+16/10/16;Collet d'Allevard;20;Déco sud, 2 décos face voile, attéro à la digue
+16/10/16;Collet d'Allevard;15;
+16/10/16;Collet d'Allevard;15;
+18/10/16;Montaud;15;RAS, super site, dynamique en falaise par Nord
+19/10/16;Laffrey;20;Vent > 20 km/h, très nuageux -> grosses ascendances -> oreilles + accéléro, 360°
+28/10/16;Croix de Boutières;5;Vent de Nord -> sous le vent, attéro petit
+28/10/16;Chaudeyrolle;2;
+29/10/16;La Jasserie;5;Attéro en pente
+31/10/16;Denise;5;
+01/11/16;Scia;10;Un peu mouvementé
+12/11/16;La Jasserie;5;1er déco dans la neige, air très calme
+12/11/16;Salvaris;5;
+19/11/16;Semnoz;10;
+20/11/16;Planfait;5;Beaucoup de sud, fermeture droite puis gauche au déco, difficile de rejoindre attéro -> mauvais vol
+26/11/16;Saint Hilaire;10;Magnifique vol dans les nuages et la brume
+26/11/16;Collet d'Allevard;15;Sympa, petits thermiques au dessus du village
+26/11/16;Collet d'Allevard;15;
+10/12/16;Planfait;5;Petits vols très calmes avec Eric et Martin
+10/12/16;Planfait;5;
+10/12/16;Planfait;5;
+10/12/16;Planfait;5;
+10/12/16;Semnoz;12;Attéro olé olé trop court dans le fil de la clôture!
+10/12/16;Semnoz;12;
+14/12/16;Chamrousse;25;Déco sur les pistes en contrebas de la croix
+03/01/17;Planfait;25;Allers-retours le long de la falaise grâce au vent
+04/01/17;Planfait;5;Petits vols sympas avec un léger vent bizarre en sortie de déco
+04/01/17;Planfait;5;
+04/01/17;Planfait;5;
+11/02/17;Planfait;5;Petits vols tranquilles
+11/02/17;Planfait;5;
+11/02/17;Planfait;15;Un peu de dynamique
+16/02/17;Chamrousse;25;Déco de la croix
+18/02/17;Alambre;5;Attéro parking ski de fond cabanne
+25/02/17;Solire;20;Déco en snowboard, sympa
+25/02/17;Solire;20;
+26/02/17;Solire;20;Attéro olé olé un peu court sur le chemin, proche du chalet
+26/02/17;Solire;20;
