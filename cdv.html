@@ -1,13 +1,27 @@
 <DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <script type="text/javascript" src="js/d3.min.js"></script>
-        <title>Carnet de Vol</title>
-    </head>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style/material.indigo-pink.min.css">
+		<link rel="stylesheet" href="style/font.css">
+		<script type="text/javascript" src="js/material.min.js"></script>
+		<script type="text/javascript" src="js/d3.min.js"></script>
+		<title>Carnet de Vol</title>
+	</head>
 
-    <body>
-        <div class="content"></div>
-        <script type="text/javascript" src="js/cdv.js"></script>
-    </body>
+	<body>
+		<div class="mdl-layout mdl-js-layout mdl-layout--fixed-drawer">
+			<div class="mdl-layout__drawer">
+				<span class="mdl-layout__title">Carnet de Vol</span>
+				<nav class="mdl-navigation">
+					<a class="mdl-navigation__link" href="#vols">Mes Vols</a>
+					<a class="mdl-navigation__link" href="#stats">Mes Statistiques</a>
+				</nav>
+			</div>
+			<main class="mdl-layout__content">
+                <div class="content"></div>
+			</main>
+		</div>	
+		<script type="text/javascript" src="js/cdv.js"></script>
+	</body>
 </html>
